@@ -1,5 +1,5 @@
 {
-    "name": "wuwuseo/hibiken-asynq-client",
+    "name": "mbf5923/hibiken-asynq-client",
     "description": "go hibiken/asynq client",
     "type": "library",
     "require": {
